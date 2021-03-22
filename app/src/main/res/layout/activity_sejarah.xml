@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SejarahActivity">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="138dp"
+            android:padding="10dp"
+            android:src="@drawable/titlesejarah">
+
+        </ImageView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Desa adat kediri
+Desa adat kediri merupakan desa yang terletak di kecamatan kediri kabupaten tabanan.
+Desa adat kediri adalah satu desa yang berdampingan dengan puri kediri.
+Desa adat kediri tediri dari 5banjar diantara nya br.panti brpuseh brjagasatru brdelodpuri dan brsema.
+Di desa adat kediri terdapat sebuah tradisi unik dan sakral yaitu tradisi nektek nangluk merana.
+
+Diceritakan pada masa lalu dimana di desa adat kediri terjadi wabah berkelanjutan
+yang menyebabkan banyak warga desa adat kediri sakit
+bahkan meninggal (grubug) serta hasil ladang terkena hama hingga (gagal panen).
+Suatu hari, tidak disengaja anak2 bermain kulkul (nektek) dan tempeh yang mengeluarkan suara
+sembari mengelilingi desa,
+Lambat laun diikuti oleh pemuda dan orangtua yang beramai-ramai mengelilingi desa.
+Dengan kegiatan tersebut, secara tidak sengaja gerubug dan wabah hama tiba-tiba menghilang.
+Dari saat itulah Desa Adat Kediri Percaya Bahwa kegiatan nektek yang membuat wabah menjadi hilang.
+Sehingga tradisi nektek didesa adat kediri dinamakan tradisi nektek nanggluk merana desa adat kediri."
+            android:padding="10dp"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center">
+
+        </TextView>
+
+    </LinearLayout>
+
+</ScrollView>
